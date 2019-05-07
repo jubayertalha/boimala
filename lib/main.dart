@@ -4,8 +4,6 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:boimala/login.dart';
 import 'package:boimala/home.dart';
 
-//test comment
-
 void main() => runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
     title: 'Boimala',
